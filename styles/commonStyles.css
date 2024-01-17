@@ -1,0 +1,24 @@
+.heading-styles {
+    border-bottom: 1px solid black;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+
+.title-styles {
+    background-color: black;
+}
+
+nav {
+    background-color: black;
+    padding-top: 10px;
+    padding-left: 90%;
+    width: 100%;
+}
+
+.nav-item{
+    color: white;
+}
